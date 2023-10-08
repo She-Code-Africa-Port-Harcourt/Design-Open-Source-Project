@@ -10,3 +10,6 @@ Aller.gia is an AI app that tracks allergy. An allergy is an exaggerated immune 
 ## Getting Started
 
 - Project [Design](https://www.figma.com/file/wUvKdIM4fPhf2lTRTBE9z4/team-2?type=design&node-id=0%3A1&mode=design&t=rmeSU1CHwQ6sypBC-1)
+- Go through the Android design and create the Web design of the same feature.
+- You are free to create an issue. then request that the issue be assign to you.
+- Thank you for your contribution.
